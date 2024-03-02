@@ -28,5 +28,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmetullahgonul&" alt="rahmetullahgonul" /></p>
 
 
+<p><img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/ariafatah0711/ariafatah0711/output/github-contribution-grid-snake-dark.svg" width="1000" />
 
-![snake gif](https://github.com/rahmetullahgonul/rahmetullahgonul/blob/output/github-contribution-grid-snake.gif)
